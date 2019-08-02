@@ -1,0 +1,5 @@
+﻿Línea Uno 1 con tiíldes y comas(,) y ñÑ y puntos...::CAT1::FUENTE1::AUTOR1::DATASET1
+Línea Uno 2 con tiíldes y comas(,) y ñÑ y puntos...::CAT2::FUENTE2::AUTOR2::DATASET2
+Línea Uno 3 con tiíldes y comas(,) y ñÑ y puntos...::CAT3::FUENTE3::AUTOR3::DATASET3
+Línea Uno 4 con tiíldes y comas(,) y ñÑ y puntos...::CAT4::FUENTE4::AUTOR4::DATASET4
+Línea Uno 5 con tiíldes y comas(,) y ñÑ y puntos...::CAT5::FUENTE5::AUTOR5::DATASET5
